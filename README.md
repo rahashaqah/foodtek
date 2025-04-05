@@ -25,8 +25,8 @@ The following principles were considered:
   - Home Page + Product Details  + Restaurant Listings   
 
 - *Mona Salah* – Designed the *last 3 sections*:
-  - Order Tracking  
-  - Settings & Profile
+  - Checkout  
+  - Settings + track
   - Card + History
  
 
