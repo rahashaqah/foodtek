@@ -25,9 +25,9 @@ The following principles were considered:
   - Home Page + Product Details  + Restaurant Listings   
 
 - *Mona Salah* – Designed the *last 3 sections*:
-  - Checkout  
-  - Settings + track
-  - Card + History
+  - Map & Cheackout
+  - Track & Chat & Profile 
+  - Cart & History
  
 
 All screens were designed with consistent layout and components to ensure the app is *easy to use* and *visually appealing* for the end users.
