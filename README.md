@@ -1,16 +1,58 @@
-# foodtek1
+# 🍔 Food Tek - Food Delivery App
 
-A new Flutter project.
+Food Tek: is a modern food delivery application. In this phase, we focused on designing the user interface (UI) to offer a clean, modern, and user-friendly experience for future development.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎨 UI Design – Phase 1
 
-A few resources to get you started if this is your first Flutter project:
+In this stage, the design team created high-fidelity screens using *Figma*.  
+The following principles were considered:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ✅ Comfortable and eye-friendly color scheme  
+- ✅ Smooth and intuitive user experience (UX)  
+- ✅ Easy navigation between screens  
+- ✅ Integration of simple animations  
+- ✅ A modern and minimalistic design style  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+### 👩‍💻 Design Team Contribution
+
+- *Raha Shaqaqha* – Designed the *first 3 sections*:
+  - Splash Screen  & On Bording screen
+  - Login & Signup Screens  
+  - Home Page + Product Details  + Restaurant Listings   
+
+- *Mona Salah* – Designed the *last 3 sections*:
+  - Order Tracking  
+  - Settings & Profile
+  - Card + History
+ 
+
+All screens were designed with consistent layout and components to ensure the app is *easy to use* and *visually appealing* for the end users.
+
+---
+
+## 🚀 Technologies Used
+
+- *UI Design:* Figma  
+- *Frontend :* Flutter  
+
+
+---
+
+## 📌 Project Objectives
+
+Our goal is to deliver a seamless and secure food delivery experience with elegant UI and high performance.  
+This design serves as a reference for the development team in the next implementation phases.
+
+---
+
+## 📁 Folder Structure
+
+(To be updated by the development team as coding progresses)
+
+---
+
+كويس ؟
